@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "empolyee": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "lok",
+      "experience": 43,
+      "package": 33,
+      "id": 1
+    },
+    {
+      "firstName": "Emmu",
+      "lastName": "Emmi",
+      "email": "emmu@gmail.com",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "",
+      "education": "Mba",
+      "company": "FutureBlock",
+      "experience": 4,
+      "package": 23,
+      "id": 2
+    },
+    {
+      "firstName": "finl",
+      "lastName": "final",
+      "email": "final@gmail.com",
+      "dob": "2023-07-05T18:30:00.000Z",
+      "gender": "others",
+      "education": "Intermediate",
+      "company": "dd",
+      "experience": 342325,
+      "package": 345,
+      "id": 3
+    },
+    {
+      "firstName": "Tes",
+      "lastName": "eshjfg",
+      "email": "sfjkh@GMAIL.COM",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "others",
+      "education": "Mca",
+      "company": "DD",
+      "experience": 33,
+      "package": 3,
+      "id": 4
+    },
+    {
+      "firstName": "Tests",
+      "lastName": "eshjfg",
+      "email": "sfjkh@GMAIL.COM",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "DD",
+      "experience": 33,
+      "package": 5555,
+      "id": 5
+    },
+    {
+      "firstName": "Tests",
+      "lastName": "eshjfg",
+      "email": "sfjkh@GMAIL.COM",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "DD",
+      "experience": 33,
+      "package": 32322,
+      "id": 6
+    },
+    {
+      "firstName": "Tests",
+      "lastName": "eshjfg",
+      "email": "sfjkh@GMAIL.COM",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "DD",
+      "experience": 33,
+      "package": 355555,
+      "id": 7
+    },
+    {
+      "firstName": "Tests",
+      "lastName": "eshjfg",
+      "email": "sfjkh@GMAIL.COM",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "DDe",
+      "experience": 33,
+      "package": 3,
+      "id": 8
+    }
+  ]
+}
